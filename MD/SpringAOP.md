@@ -61,7 +61,7 @@ public class Main(){
 - `java.lang.reflect.Proxy`类。
 - `java.lang.reflect.InvocationHandler`接口。
 
-`Proxy` 类是用于创建代理对象，而 `InvocationHandler` 接口主要你是来处理执行逻辑。
+`Proxy` 类是用于创建代理对象，而 `InvocationHandler` 接口主要是用来处理执行逻辑。
 
 如下：
 ```java
